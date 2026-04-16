@@ -15,7 +15,7 @@ The plugin bundles:
 ## Requirements
 
 - **Claude Code** 2.1 or later (or Claude Desktop with plugin support).
-- **A Reo account** with API access — contact [hello@reo.ai](mailto:hello@reo.ai) to provision your tenant.
+- **A Reo account** with API access — contact [hello@reo.ai](mailto:hello@reo.dev) to provision your tenant.
 - **Network access** to `https://mcp.reo.dev/mcp` from the machine running Claude.
 - **Optional:** a `visualize` / `show_widget` tool configured separately if you want the `account-research` skill to render HTML dashboards inline. Without it, the dashboard falls back to markdown.
 
@@ -79,8 +79,8 @@ Both skills expose a `CONFIG` section at the top of their `SKILL.md` — edit th
 
 ## Support
 
-- **Docs:** https://docs.reo.ai
-- **Email:** support@reo.ai
+- **Docs:** https://docs.reo.dev
+- **Email:** support@reo.dev
 - **Issues:** use the GitHub issues tab on this repo.
 
 ## License
