@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "reo-mcp-tools-marketplace",
+  "metadata": {
+    "description": "Local marketplace wrapping the reo-mcp-tools plugin for dev and private distribution."
+  },
+  "owner": {
+    "name": "Reo"
+  },
+  "plugins": [
+    {
+      "name": "reo-mcp-tools",
+      "description": "Turn Reo into your GTM copilot inside Claude. Research accounts and buyers, prioritize your daily list by ICP fit and real activity, and surface deanonymized engaged developers.",
+      "category": "productivity",
+      "author": {
+        "name": "Reo"
+      },
+      "source": "./"
+    }
+  ]
+}

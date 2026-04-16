@@ -1,0 +1,18 @@
+{
+  "name": "reo-mcp-tools",
+  "version": "1.0.0",
+  "description": "Turn Reo into your GTM copilot inside Claude. Research accounts and buyers, prioritize your daily account list by ICP fit and real activity, and surface deanonymized engaged developers — all grounded in ~90M enriched LinkedIn profiles, firmographic data, hiring signals, and first-party engagement from the Reo buyer intelligence platform.",
+  "author": {
+    "name": "Reo"
+  },
+  "keywords": [
+    "reo",
+    "sales",
+    "gtm",
+    "buyer-intelligence",
+    "account-research",
+    "prospecting",
+    "sdr",
+    "outbound"
+  ]
+}

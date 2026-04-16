@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reo-gateway": {
+      "type": "http",
+      "url": "https://mcp.reo.dev/mcp"
+    }
+  }
+}
